@@ -1,12 +1,18 @@
-## Hi i'm Siripireddy Giri👋
+## Hi I'm Siripireddy Giri 👋
 
-# Completed My Bachelor of Engineering at Vemana Institute of Technolog.
+# Completed my Bachelor of Engineering at Vemana Institute of Technology.
 
-[Stackoverflow](https://stackoverflow.com/SiripireddyGiri)
-
-[linkdin](https://linkedin.com/in/siripireddygiri)
-
-# Details 
+# Details  
 ***Software Developer Intern***  
-Frontend Devloper
+Frontend Developer  
 
+I'm a passionate and enthusiastic developer with a deep interest in web development, especially **frontend technologies**.
+
+### 🌱 Currently Learning:
+- Advanced React concepts
+- UI/UX design fundamentals
+- Backend basics to become a full-stack developer
+
+### 📫 Reach me on:
+- LinkedIn: [siripireddygiri](https://linkedin.com/in/siripireddygiri)
+- StackOverflow: [SiripireddyGiri](https://stackoverflow.com/SiripireddyGiri)
