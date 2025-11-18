@@ -4,7 +4,6 @@
 
 # Details  
 ***Software Developer Intern***  
-Frontend Developer  
 
 I'm a passionate and enthusiastic developer with a deep interest in web development, especially **frontend technologies**.
 
