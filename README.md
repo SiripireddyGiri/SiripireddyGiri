@@ -12,9 +12,6 @@ Hi I'm Siripireddy Giri 👋<br><br>I have Completed My Bachelor of Engineering 
 ![](https://nirzak-streak-stats.vercel.app/?user=SiripireddyGiri&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiripireddyGiri&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SiripireddyGiri&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
