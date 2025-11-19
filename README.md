@@ -1,6 +1,6 @@
 ## Hi I'm Siripireddy Giri 👋
 
-# i have Completed My Bachelor of Engineering at Vemana Institute of Technology.
+# I have Completed My Bachelor of Engineering at Vemana Institute of Technology.
 
 # Details  
 ***Software Developer Intern***  
