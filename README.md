@@ -1,16 +1,28 @@
 ## Hi I'm Siripireddy Giri 👋
 
-# i have Completed My Bachelor of Engineering at Vemana Institute of Technology.
+# I have Completed My Bachelor of Engineering at Vemana Institute of Technology.
 
 # Details  
-***Software Developer Intern***  
+***Software Developer***  
 
 I'm a passionate and enthusiastic developer with a deep interest in web development, especially **frontend technologies**.
+<hr>
 
-### Skills :
-- Java(SpringBoot Framework).
-- React Basics.
-- RESTful API Creation.
+### 🛠️ Skills :
+- languages
+    - java
+    - javascript
+- frameworks & Libraries
+    - Reactjs
+    - Spring
+- Database
+    - Sql
+    - Postgres
+- Tools
+    - Maven
+    - postman
+    - Vscode
+    - Spring initializr
 
 ### 🌱 Currently Learning:
 - Advanced React concepts
