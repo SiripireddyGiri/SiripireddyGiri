@@ -21,18 +21,4 @@ I'm a passionate and enthusiastic developer with a deep interest in web developm
 - LinkedIn: [siripireddygiri](https://linkedin.com/in/siripireddygiri)
 - StackOverflow: [SiripireddyGiri](https://stackoverflow.com/users/31691216/siripireddy-giri)
 
-- Resume : <input id="Resume" type="button" value="Download Resume" onclick="window.location.href='#'"/>
-
-<style>
-body{
-    background:linear-gradient(120deg, #0f0c29, #302b63, #24243e);
-    cursor:pointer;
-    transition:0.3 ease;
-    min-height:100vh;
-}
-#Resume{
-    background :linear-gradient(120deg, orange, pink);
-    border-radius:10px;
-}
-
-</style>
+- Check out my portfolio: [siripireddygiri.github.io](https://siripireddygiri.github.io/)
