@@ -29,8 +29,7 @@ I am a **passionate developer** with a strong interest in **web development**, e
 
 ## ✍️ Random Developer Quote
 
-> "Write code as if the person who ends up maintaining it will be a violent psychopath who knows where you live."  
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-*(This quote changes randomly on refresh if using the GitHub quote API image)*
 
 ---
